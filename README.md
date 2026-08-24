@@ -8,13 +8,13 @@
 
 <br>
 
-## 💗 Sobre mim
+## Camila VItória
 
 - 🎓 Estudante de *Ciência de Dados* na *UFMG*
 - 💼 Cientista de dados na *PI Júnior*, empresa júnior da UFMG
 - 🖥️ Formada em *Técnico em Desenvolvimento de Sistemas*
 - 🌱 Sempre aprendendo algo novo na área de tecnologia
-- 📍 Natural de Berilo
+
 
 <br>
 
