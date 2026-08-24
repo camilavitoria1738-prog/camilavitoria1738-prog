@@ -1,4 +1,4 @@
-[09:36, 24/08/2026] Camila: <div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:000000,100:F72585&height=220&section=header&text=Camila%20Vitória&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Dev%20%7C%20Tech&descAlignY=55&descSize=18" width="100%"/>
 
@@ -8,20 +8,6 @@
 
 <br>
 
-## 💗 Sobre mim
-
-- 🎓 Estudante de *Ciência de Dados* na *UFMG*
-- 💼 Cientista de dados na *PI Júnior*, empresa júnior da UFMG
-- 🖥️ Formada em *Técnico em Desenvo…
-[09:53, 24/08/2026] Camila: <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF71B5,50:FFC1E0,100:FF71B5&height=220&section=header&text=Camila%20Vitória&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Dev%20%7C%20Tech&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF71B5&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+de+Dados+%40+UFMG;Cientista+de+Dados+na+PI+Júnior;Apaixonada+por+tecnologia+e+dados+💗" alt="Typing SVG" />
-
-</div>
-
-<br>
 
 ##  Sobre mim
 
